@@ -4,8 +4,8 @@
 
 ## Modul 1 Identity Access Management
 
-* [Azure AD Nedir?](modul-1-identity-access-management/azure-ad-nedir.md)
-* [Azure AD Kullanıcı Yönetimi](modul-1-identity-access-management/azure-ad-kullanici-yoenetimi.md)
+* [Azure AD Nedir?](about-us/vision-mission-and-focus/README.md)
+* [Azure AD Kullanıcı Yönetimi](about-us/values.md)
 * [Administrative Grupları](modul-1-identity-access-management/administrative-gruplari.md)
 * [Hibrit Kimlik Doğrulama Yöntemleri](modul-1-identity-access-management/hibrit-kimlik-dogrulama-yoentemleri.md)
 * [Azure Identity Protection](modul-1-identity-access-management/azure-identity-protection.md)
@@ -18,4 +18,4 @@
 
 ## Modul 2
 
-* [🌴 Requesting Time Off](modul-2/requesting-time-off.md)
+* [🌴 Requesting Time Off](policies/requesting-time-off.md)

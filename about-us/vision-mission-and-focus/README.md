@@ -17,6 +17,8 @@ Peki aralarındaki farklar nelerdir?
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*-QivrxFVA43TnzkC.png" alt=""><figcaption><p>Azure AD ve AD DS Farkları</p></figcaption></figure>
 
+
+
 Azure AD ve AD DS Farkları
 
 > _Azure AD’ de bulunan global admin rolündeki kullanıcılar içerdeki tüm ayarlara okuma ve değişiklik yapma yetkisine sahiptir. Riski azaltmak için bu rolü içerde **en fazla 5 kullanıcıya verilmesi önerilir.**_

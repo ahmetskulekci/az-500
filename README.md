@@ -12,6 +12,3 @@ Microsoft, AZ-500 sertifikasına sahip olabilmek için 4 modül üzerinde hakim 
 * Modül 4: Security Operations
 
 Bu dokümanda modüllerin tamamını detaylı şekilde inceleyeceğiz.
-
-\
-\
