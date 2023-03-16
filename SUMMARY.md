@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [🎉 AZ-500 Hazırlık Notları](README.md)
 
 ## About us
 
