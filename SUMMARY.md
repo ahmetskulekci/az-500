@@ -2,23 +2,20 @@
 
 * [🎉 AZ-500 Hazırlık Notları](README.md)
 
-## About us
+## Modul 1 Identity Access Management
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [Azure AD Nedir?](modul-1-identity-access-management/azure-ad-nedir.md)
+* [Azure AD Kullanıcı Yönetimi](modul-1-identity-access-management/azure-ad-kullanici-yoenetimi.md)
+* [Administrative Grupları](modul-1-identity-access-management/administrative-gruplari.md)
+* [Hibrit Kimlik Doğrulama Yöntemleri](modul-1-identity-access-management/hibrit-kimlik-dogrulama-yoentemleri.md)
+* [Azure Identity Protection](modul-1-identity-access-management/azure-identity-protection.md)
+* [Zero Trust Nedir?](modul-1-identity-access-management/zero-trust-nedir/README.md)
+  * [Microsoft Zero Trust Mimarisi](modul-1-identity-access-management/zero-trust-nedir/microsoft-zero-trust-mimarisi.md)
+* [Kimlik Yönetimin Evrimi](modul-1-identity-access-management/kimlik-yoenetimin-evrimi.md)
+* [Azure Privileged Identity Management (PIM)](modul-1-identity-access-management/azure-privileged-identity-management-pim.md)
+* [Azure Komponentleri](modul-1-identity-access-management/azure-komponentleri.md)
+* [Azure Policy ve Role-Based Access Control (RBAC)](modul-1-identity-access-management/azure-policy-ve-role-based-access-control-rbac.md)
 
-## Team
+## Modul 2
 
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Requesting Time Off](modul-2/requesting-time-off.md)
