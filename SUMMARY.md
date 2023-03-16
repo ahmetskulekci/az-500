@@ -18,4 +18,4 @@
 
 ## Modul 2
 
-* [Modul 2.1](modul-2/modul-2.1.md)
+* [Modul 2.1](policies/requesting-time-off.md)
