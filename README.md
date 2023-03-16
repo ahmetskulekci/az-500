@@ -1,4 +1,4 @@
-# 🎉 AZ-500 Hazırlık Notları
+# AZ-500 Hazırlık Notları
 
 Türkiye’ de yaygın kullanılan cloud provider’ larından biri olan Azure’ un güvenlik alanına yönelik AZ-500 Security Technologies sertifikasına ait içerikler bekliyor.
 

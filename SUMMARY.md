@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉 AZ-500 Hazırlık Notları](README.md)
+* [AZ-500 Hazırlık Notları](README.md)
 
 ## Modul 1 Identity Access Management
 
@@ -18,4 +18,4 @@
 
 ## Modul 2
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Modul 2.1](modul-2/modul-2.1.md)
